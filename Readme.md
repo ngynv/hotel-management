@@ -10,12 +10,19 @@ The system also provides an admin dashboard to oversee all activities — from t
 ## 🚀 Features
 
 ✅ Room Booking – Allow customers to search, view availability, and book hotel rooms easily.
+
 ✅ Service Booking – Support booking additional services such as spa, food, or transport.
+
 ✅ Customer Management – Manage customer profiles and booking history securely.
+
 ✅ Revenue Statistics – Track income from bookings and services with dynamic reports.
+
 ✅ Booking Calendar – View and manage daily/weekly/monthly room booking schedules.
+
 ✅ Online Payments – Integrate with PayPal for secure online payments.
+
 ✅ Admin Dashboard – Manage rooms, customers, services, and view detailed reports.
+
 ## 🛠️ Technologies Used
 
 Frontend: React.js, Vite, Tailwind CSS
