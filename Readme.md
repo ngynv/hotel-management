@@ -1,4 +1,5 @@
-Hotel Booking Management
+🏨 Hotel Booking Management
+____________________________________________________
 📌 Project Overview
 Hotel Booking Management is a web-based system designed to help hotels efficiently manage key operations such as room reservations, service bookings, customer profiles, and revenue tracking.
 
