@@ -33,7 +33,9 @@ Payment Integration: PayPal REST API
 ## 📷 Screenshots
 
 ### 🏠 Home Screen
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5817679-380a-451c-b9bb-818b0cced8d6" width="400" />
+</p>
 
 ### 🔐 Login Screen
 
