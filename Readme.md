@@ -8,7 +8,7 @@ Customers can easily check room availability, make reservations, add extra servi
 The system also provides an admin dashboard to oversee all activities — from the number of booked rooms and daily revenue to detailed customer information — all in one platform. It streamlines hotel operations and enhances the overall experience for both staff and guests.
 
 ## 🚀 Features
-**For Customers**:
+### **For Customers**:
 
 - Search for available rooms and book preferred rooms easily
 
@@ -20,7 +20,7 @@ The system also provides an admin dashboard to oversee all activities — from t
 
 - Make secure online payments via PayPal
 
-**For Hotel Staff / Admin**:
+### **For Hotel Staff / Admin**:
 
 - Manage and update room information, service offerings, and pricing
 
