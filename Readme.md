@@ -8,26 +8,42 @@ Customers can easily check room availability, make reservations, add extra servi
 The system also provides an admin dashboard to oversee all activities — from the number of booked rooms and daily revenue to detailed customer information — all in one platform. It streamlines hotel operations and enhances the overall experience for both staff and guests.
 
 ## 🚀 Features
-✅ **Room Booking** – Allow customers to search, view availability, and book hotel rooms easily.
+**For Customers**:
 
-✅ **Service Booking** – Support booking additional services such as spa, food, or transport.
+- Search for available rooms and book preferred rooms easily
 
-✅ **Customer Management** – Manage customer profiles and booking history securely.
+- Choose from additional services such as spa, dining, or transportation
 
-✅ **Revenue Statistics** – Track income from bookings and services with dynamic reports.
+- View booking history and reservation details
 
-✅ **Booking Calendar** – View and manage daily/weekly/monthly room booking schedules.
+- Receive automated email notifications for booking confirmations and reminders
 
-✅ **Online Payments** – Integrate with PayPal for secure online payments.
+- Make secure online payments via PayPal
 
-✅ **Admin Dashboard** – Manage rooms, customers, services, and view detailed reports.
+**For Hotel Staff / Admin**:
+
+- Manage and update room information, service offerings, and pricing
+
+- Track customer profiles and booking history
+
+- Monitor revenue and generate dynamic financial reports
+
+- View and manage daily/weekly/monthly booking schedules
+
+- Send automated reminders for upcoming bookings or follow-ups
+
+- Oversee all hotel operations through a centralized admin dashboard
 
 ## 🛠️ Technologies Used
-- **Frontend:** React.js, Vite, Tailwind CSS  
-- **Backend:** Node.js (Express.js)  
-- **Database:** MongoDB  
-- **Authentication:** JWT / OAuth  
-- **Payment Integration:** PayPal REST API
+Frontend: React.js, Vite, Tailwind CSS  
+
+Backend Node.js (Express.js)  
+
+Database MongoDB  
+
+Authentication JWT / OAuth  
+
+Payment Integration PayPal REST API
 
 ## 📷 Screenshots
 
