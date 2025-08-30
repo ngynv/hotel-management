@@ -37,13 +37,13 @@ The system also provides an admin dashboard to oversee all activities — from t
 ## 🛠️ Technologies Used
 Frontend: React.js, Vite, Tailwind CSS  
 
-Backend Node.js (Express.js)  
+Backend: Node.js (Express.js)  
 
-Database MongoDB  
+Database: MongoDB  
 
-Authentication JWT / OAuth  
+Authentication: JWT / OAuth  
 
-Payment Integration PayPal REST API
+Payment Integration: PayPal REST API
 
 ## 📷 Screenshots
 
